@@ -1,0 +1,4 @@
+SANITY_VERSION 1
+TMPDIR /home/shrkamat/yocto/rpi-build/tmp
+SSTATE_DIR /home/shrkamat/yocto/rpi-build/sstate-cache
+NATIVELSBSTRING ubuntu-19.04

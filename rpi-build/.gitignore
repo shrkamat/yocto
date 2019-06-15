@@ -1,0 +1,8 @@
+aaa
+*.log
+*.lock
+*.sock
+downloads
+sstate-cache
+cache
+tmp
