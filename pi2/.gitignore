@@ -6,4 +6,5 @@ downloads
 sstate-cache
 cache
 tmp
+rpi-build
 conf/sanity_info

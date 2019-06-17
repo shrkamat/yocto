@@ -1,0 +1,4 @@
+SANITY_VERSION 1
+TMPDIR /home/shrkamat/yocto/pi2/tmp
+SSTATE_DIR /home/shrkamat/yocto/pi2/sstate-cache
+NATIVELSBSTRING ubuntu-16.04
